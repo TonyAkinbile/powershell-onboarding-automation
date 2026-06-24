@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-PowerShell Automation | Active Directory Administration | User Provisioning | Identity & Access Management | Organizational Unit Management | Password Policy Enforcement | IT Support Automation
+PowerShell | Active Directory | User Provisioning | Organizational Units (OUs) | Password Policy Enforcement | Identity Management | IT Support Automation
 </p>
 
 ---
