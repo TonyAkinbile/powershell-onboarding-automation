@@ -376,20 +376,7 @@ By automating user provisioning, organizations can reduce manual administrative 
 
 The solution follows enterprise identity management principles by automatically creating accounts, assigning users to the correct Organizational Unit, generating secure passwords, and enforcing password changes at first logon.
 
----
 
-## Project Outcome
-
-A PowerShell-based onboarding automation solution was successfully developed and tested within a Windows Server 2022 Active Directory environment.
-
-The automation successfully:
-
-- Generated secure passwords
-- Created Active Directory user accounts
-- Assigned users to Organizational Units
-- Applied account security settings
-- Enforced password changes at first logon
-- Verified successful account creation within Active Directory
 
 ---
 
